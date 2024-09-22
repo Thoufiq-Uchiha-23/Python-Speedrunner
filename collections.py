@@ -15,3 +15,6 @@ print(x)
 # x.pop()
 x.pop(1)
 print(x)
+
+# Tuples
+x = (0,0, 2,2)
